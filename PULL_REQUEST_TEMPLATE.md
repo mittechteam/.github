@@ -19,3 +19,21 @@
 <!--- see how your change affects other areas of the code, etc. -->
 
 ## Screenshots (if appropriate):
+
+## Checklist (Assigne):
+
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
+- [ ] New and existing unit tests pass locally with my changes
+- [ ] Uploaded the rosbag link if tested on real bot.
+- [ ] I have tagged the Observers (atleast one Alumni)
+
+## Checklist (Reviewer):
+
+- [ ] Code is well-organized and easy to understand.
+- [ ] Build and test succesfully.
+- [ ] The rosbag or simulation results are reviewed for new functionalities or fixes.
+
