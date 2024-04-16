@@ -30,6 +30,7 @@
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Uploaded the rosbag link if tested on real bot.
 - [ ] I have tagged the Observers (atleast one Alumni)
+- [ ] I have added correct labels.
 
 ## Checklist (Reviewer):
 
