@@ -28,7 +28,7 @@
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] New and existing unit tests pass locally with my changes
-- [ ] Uploaded the rosbag link if tested on real bot.
+- [ ] Uploaded the rosbag/video link if tested on real bot.
 - [ ] I have tagged the Observers (atleast one Alumni)
 - [ ] I have added correct labels.
 
