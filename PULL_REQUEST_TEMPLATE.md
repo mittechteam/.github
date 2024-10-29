@@ -40,6 +40,5 @@
 - [ ] The changes have been tested locally/on sim/on robot and they are performing as intended
 - [ ] Code is well-organized, well documented and easy to understand
 - [ ] The rosbag or simulation results are reviewed for new functionalities or fixes
-- [ ] The observer has given a go ahead
 - [ ] All tests are passing on CI
 
