@@ -10,7 +10,7 @@ We are a group of passionate engineers who love to build robots for the ABU Robo
 At MTT we don’t just build robots, we build people who build robots.
 
 ### How to Reach Us?
-- [Website](http://robocon.mitwpu.edu.in/)
+- [Website](https://www.robocon.in/)
 - [Twitter](https://twitter.com/MTT_Robotics)
 - [LinkedIn](https://www.linkedin.com/company/mittechteam)
 - [Instagram](https://www.instagram.com/robocon.mit/)
