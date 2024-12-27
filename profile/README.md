@@ -1,5 +1,5 @@
 ## Welcome to MTT! 👋
-[![Welcome Image](profile/DD_Robocon_2023_Team.JPG)](http://robocon.mitwpu.edu.in/)
+[![Welcome Image](profile/DD_Robocon_2024_Team.jpg)](https://www.robocon.in/)
 
 ### 🤖 Building Robots since 2007
 We are a group of passionate engineers who love to build robots for the ABU Robocon Competition. Our goals are simple:
