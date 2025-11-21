@@ -47,8 +47,25 @@
 <!--- For web/GUI: screenshots of UI, network tab showing API calls -->
 
 ## Breaking Changes & Migration:
-<!--- If this is a breaking change, explain what breaks and how to migrate -->
-<!--- Otherwise, write "N/A" -->
+<!--- Does this PR break existing code that teammates are using? -->
+<!--- Breaking change = other people need to modify their code for it to work with your changes -->
+<!--- Examples: -->
+<!---   - Updated CAN library API: motor_init() now requires speed parameter -->
+<!---   - Removed ROS topic /cmd_vel, replaced with /robot/velocity -->
+<!---   - Changed config file format from JSON to YAML -->
+<!---   - Modified function signature: setSpeed(int) -> setSpeed(int, bool direction) -->
+<!---   - Renamed perception class DetectionNode -> ObjectDetector -->
+<!--- If NO breaking changes: Just leave this section blank -->
+
+**What breaks:** 
+<!-- Describe what existing code/configs will stop working -->
+<!-- Example: "motor_init() function now requires speed parameter - old code calling motor_init() will fail to compile" -->
+<!-- OR just write "None" -->
+
+**How to fix it:**
+<!-- Tell teammates exactly what they need to change in their code -->
+<!-- Example: "Update all motor_init() calls to motor_init(50) where 50 is desired speed" -->
+<!-- OR write "N/A" if no breaking changes -->
 
 ## Checklist (Assignee):
 - [ ] PR tackles a single feature/issue (not mixing multiple unrelated changes)
